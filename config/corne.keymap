@@ -64,7 +64,7 @@
 
             display-name = "Lower";
             bindings = <
-&kp EXCL   &kp LEFT_BRACKET  &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp RIGHT_BRACKET  &kp QMARK     &kp BACKSLASH  &kp LS(GRAVE)  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp SEMICOLON  &kp COMMA
+&kp EXCL   &kp LEFT_BRACKET  &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp RIGHT_BRACKET  &kp QMARK     &kp BACKSLASH  &kp GRAVE      &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp SEMICOLON  &kp COMMA
 &kp HASH   &kp CARET         &kp EQUAL       &kp UNDER        &kp DOLLAR         &kp STAR      &kp DOT        &kp AMPERSAND  &kp SINGLE_QUOTE      &kp DOUBLE_QUOTES      &kp PLUS       &kp AT
 &kp TILDE  &kp LESS_THAN     &kp PIPE        &kp MINUS        &kp GREATER_THAN   &kp PERIOD    &none          &none          &none                 &none                  &none          &none
                                              &kp PERCENT      &kp SLASH          &kp COLON     &none          &none          &none
